@@ -1,6 +1,6 @@
 # Tourism Agency Booking System DBMS
 
-This repository contains the complete backend and schema design of a relational database for a Tourism Agency Booking System built for CP363.
+This repository contains the complete backend and schema design for a relational database used in a Tourism Agency Booking System built for CP363.
 
 ## File Structure
 
